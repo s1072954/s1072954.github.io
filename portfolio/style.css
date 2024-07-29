@@ -84,6 +84,9 @@ section {
 }
 
 .project {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
     width: 80%;
     margin: auto;
     text-align: center;
